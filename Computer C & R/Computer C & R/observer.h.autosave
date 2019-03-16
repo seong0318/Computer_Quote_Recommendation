@@ -1,0 +1,17 @@
+#ifndef COMPATIBILITYOBSERVER_H
+#define COMPATIBILITYOBSERVER_H
+
+class Observer
+{
+public:
+    virtual void update() = 0;
+};
+
+class CompatibilityObserver:public Observer
+{
+    void update(){
+        
+    }
+};
+
+#endif // COMPATIBILITYOBSERVER_H

@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\part.o
+./release\partdata.o
+./release\gamedata.o
+./release\allpartandgamedata.o
+./release\userpartselection.o
+./release\usergameselection.o
+./release\chartwindow.o
+./release\chartview.o
+./release\controller.o
+./release\moc_mainwindow.o
+./release\moc_chartwindow.o
+);

@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\part.o
+./debug\partdata.o
+./debug\gamedata.o
+./debug\allpartandgamedata.o
+./debug\userpartselection.o
+./debug\usergameselection.o
+./debug\chartwindow.o
+./debug\chartview.o
+./debug\controller.o
+./debug\moc_mainwindow.o
+./debug\moc_chartwindow.o
+);
